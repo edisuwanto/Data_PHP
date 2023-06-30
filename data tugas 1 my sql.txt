@@ -1,0 +1,7 @@
+create table data_penunjang
+(
+tinggi_badan int(3) primary key,
+pekerjaan varchar (15) not null,
+berat_badan int (3),
+agama varchar (10)
+);

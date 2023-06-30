@@ -1,0 +1,20 @@
+cara mengaktifkan program my sql
+
+klik windows terus ketik cmd lalu enter
+ketik 
+c:\xampp\mysql\bin\mysql -u root-p 
+tekan enter
+
+membuat database
+create database siswa;
+
+menghapus database
+drop database mahasiswa;
+
+untuk menampilkan database yang ada
+show databases;
+
+cara membuat tabel
+use (nama database)
+contoh
+use kursus;

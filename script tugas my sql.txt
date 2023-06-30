@@ -1,0 +1,7 @@
+create table data_penduduk
+(
+no_induk int(5) primary key,
+nama_lengkap varchar (35) not null,
+tanggal_lahir int (6),
+domisili varchar (15)
+);

@@ -1,0 +1,7 @@
+create table daftar_kursus
+(
+kode_kursus int(5) primary key,
+nama_kursus varchar (35) not null,
+biaya_kursus int (7),
+nama_instruktur varchar (20)
+);
